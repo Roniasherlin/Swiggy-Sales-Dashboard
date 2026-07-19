@@ -1,4 +1,4 @@
-##🍔 Swiggy Sales Dashboard
+#🍔 Swiggy Sales Dashboard
 
 An interactive **Power BI dashboard** developed to analyze Swiggy sales performance, customer ordering behavior, restaurant insights, and key business KPIs.
  
