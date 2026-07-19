@@ -16,16 +16,29 @@ This dashboard provides an interactive analysis of Swiggy's sales data, helping 
 2. Track customer ordering behavior
 3. Identify top-performing restaurants
 4. Compare food category performance
-5.Monitor revenue trends
+5. Monitor revenue trends
 6. Support data-driven business decisions
 
  ##📊 Key Performance Indicators
 
-1.Total Revenue
-2.Total Orders
-3.Average Order Value (AOV)
-4.Average Delivery Time
-5.Average Customer Rating
+## 📊 Key Performance Indicators
+
+| KPI | Value |
+| Total Revenue | ₹3.91M |
+| Total Orders | 8,943 |
+| Average Order Value (AOV) | ₹437.45 |
+| Average Delivery Time | 35.44 mins |
+| Average Rating | 2.99 |
+
+## 💡 Key Business Insights
+
+1. Generated a total revenue of ₹3.91M from 8,943 customer orders.
+2. Average Order Value (AOV) was ₹437.45.
+3. Average delivery time was maintained at 35.44 minutes.
+4.Compared discount distribution across major cities.
+5. Analyzed city-wise profit distribution using map visualizations.
+6. Studied the relationship between delivery time and customer ratings.
+7. Tracked monthly revenue trends to identify sales patterns.
 
 ## Dashboard Features
 1.KPI Cards
